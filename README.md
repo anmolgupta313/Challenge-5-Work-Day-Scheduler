@@ -1,9 +1,5 @@
 # Challenge-5-Work-Day-Scheduler
 
-# Web-ApI-Quiz-Chaallenge
-
-# Password-Generater-Challenge
-
 ## Description Of the Challenge
 
 This is the 5th week challenge that were given to us by the University Of Toronto in the coding bootcamp.
