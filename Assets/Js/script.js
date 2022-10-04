@@ -10,7 +10,7 @@ displayCurrentDay.innerHTML= currentDay.format("dddd, MMMM Do YYYY, h:mm:ss a");
 //adding class to time block class
 var timeBlock = $(".time-block").addClass("row");
 
-var currentHour = 11 //parseInt(moment().format("H"));
+var currentHour = parseInt(moment().format("H"));
 
 
 //selected save button and created an array and created a loop plus set get item
